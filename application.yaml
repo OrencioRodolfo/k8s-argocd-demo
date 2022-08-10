@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://gitlab.app.betfair/GoncalvesR3/k8s-argocd-demo.git
+    repoURL: http://gitlab.app.betfair/GoncalvesR3/k8s-argocd-demo.git
     targetRevision: HEAD
     path: dev
   destination: 
